@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Lessons_26/demo1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Lessons_26/demo1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Lessons_26/demo20250620" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Lessons_26/demo20250620" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Lessons_26/hw20250620" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Lessons_26/hw20250620" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Ls/demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Ls/demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
